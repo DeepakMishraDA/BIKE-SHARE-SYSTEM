@@ -10,3 +10,5 @@ Apart from interesting real world applications of bike sharing systems, the char
 Our task is to solve the business problem of predicting bike demand for a given date time.
 
 > ## Per week per month total count of bike hiring visual:
+<p align="left">
+  <img src="https://github.com/DeepakMishraDA/BIKE-SHARE-SYSTEM/blob/master/image.png" width=600> </p>
