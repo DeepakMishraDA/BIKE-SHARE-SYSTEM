@@ -9,4 +9,4 @@ Apart from interesting real world applications of bike sharing systems, the char
 
 Our task is to solve the business problem of predicting bike demand for a given date time.
 
-> ## A per week per month total count of bike hiring visual:
+> ## Per week per month total count of bike hiring visual:
