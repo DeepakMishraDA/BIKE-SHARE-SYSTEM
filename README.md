@@ -1,7 +1,7 @@
 <h1 align='center'>BIKE-SHARE-SYSTEM</h1>
 
 
-> ## Per week per month total count of bike hiring visual:
+> ## Flow-Diagram:
 <p align="left">
   <img src="https://github.com/DeepakMishraDA/BIKE-SHARE-SYSTEM/blob/master/flow-sheet.png" width=800> </p>
 
